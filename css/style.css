@@ -1,0 +1,16 @@
+.header-color{
+    background-color: #264653;
+    width: 100%;
+    height: auto;
+}
+
+.ctm-btn{
+    background-color: #E76F51;
+    padding: 8px 25px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
